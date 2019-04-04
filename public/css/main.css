@@ -1,0 +1,11 @@
+.card{
+    border: 2px solid black;
+    margin-bottom: 1rem;
+    background: #e9ecef; 
+}
+
+.card-title{
+    border-bottom: 2px solid grey;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+}

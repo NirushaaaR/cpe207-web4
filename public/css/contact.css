@@ -1,0 +1,20 @@
+#main-form {
+    border: 2px solid black;
+    background: #e9ecef;
+    padding: 2rem;
+    margin-bottom: 1rem;
+}
+
+#show-contact{
+    margin-bottom: 10px;
+    background: #e9ecef;
+    border: 2px solid black;
+}
+
+.list-group-item{
+    margin-bottom: 5px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+
